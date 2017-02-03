@@ -14,3 +14,7 @@
 
 ## 初始化
     hRefresh();
+
+## demo
+
+ https://hezhengjie.github.io/h-refresh/demo/index.html
