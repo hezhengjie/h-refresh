@@ -1,0 +1,19 @@
+{
+  "name": "h-refresh",
+  "version": "1.0.0",
+  "description": "refresh",
+  "main": "src/refresh.js",
+  "repository": "git@github.com:hezhengjie/h-refresh.git",
+  "keywords": [
+    "refresh"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "hezhengjie",
+    "email": "727792893@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hezhengjie/h-refresh/issues"
+  },
+  "homepage": "https://github.com/hezhengjie/h-refresh"
+}
